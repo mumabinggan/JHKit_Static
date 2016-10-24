@@ -1,21 +1,21 @@
 [submodule "Libraries/AFNetworking"]
 	path = Libraries/AFNetworking
-	url = https://github.com/AFNetworking/AFNetworking.git
+url=https://mumabinggan:zheng1988@github.com/mumabinggan/JHKit_Static_AFNetworking.git
 [submodule "Libraries/IQKeyboardManager"]
 	path = Libraries/IQKeyboardManager
-	url = https://github.com/hackiftekhar/IQKeyboardManager.git
+url=https://mumabinggan:zheng1988@github.com/mumabinggan/JHKit_Static_IQKeyboardManager.git
 [submodule "Libraries/SDWebImage"]
 	path = Libraries/SDWebImage
-	url = https://github.com/rs/SDWebImage.git
+url=https://mumabinggan:zheng1988@github.com/mumabinggan/JHKit_Static_SDWebImage.git
 [submodule "Libraries/FMDB"]
 	path = Libraries/FMDB
-	url = https://github.com/ccgus/fmdb.git
+url=https://mumabinggan:zheng1988@github.com/mumabinggan/JHKit_Static_FMDB.git
 [submodule "Libraries/MBProgressHUD"]
 	path = Libraries/MBProgressHUD
-	url = https://github.com/jdg/MBProgressHUD.git
+url=https://mumabinggan:zheng1988@github.com/mumabinggan/JHKit_Static_MBProgressHUD.git
 [submodule "Libraries/JSONModel"]
 	path = Libraries/JSONModel
-	url = https://github.com/jsonmodel/jsonmodel.git
+url=https://mumabinggan:zheng1988@github.com/mumabinggan/JHKit_Static_JSONModel.git
 [submodule "Libraries/Reachability"]
 	path = Libraries/Reachability
-	url = https://github.com/tonymillion/Reachability.git
+url=https://mumabinggan:zheng1988@github.com/mumabinggan/JHKit_Static_Reachability.git
