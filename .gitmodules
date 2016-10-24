@@ -1,0 +1,21 @@
+[submodule "Libraries/AFNetworking"]
+	path = Libraries/AFNetworking
+	url = https://github.com/AFNetworking/AFNetworking.git
+[submodule "Libraries/IQKeyboardManager"]
+	path = Libraries/IQKeyboardManager
+	url = https://github.com/hackiftekhar/IQKeyboardManager.git
+[submodule "Libraries/SDWebImage"]
+	path = Libraries/SDWebImage
+	url = https://github.com/rs/SDWebImage.git
+[submodule "Libraries/FMDB"]
+	path = Libraries/FMDB
+	url = https://github.com/ccgus/fmdb.git
+[submodule "Libraries/MBProgressHUD"]
+	path = Libraries/MBProgressHUD
+	url = https://github.com/jdg/MBProgressHUD.git
+[submodule "Libraries/JSONModel"]
+	path = Libraries/JSONModel
+	url = https://github.com/jsonmodel/jsonmodel.git
+[submodule "Libraries/Reachability"]
+	path = Libraries/Reachability
+	url = https://github.com/tonymillion/Reachability.git

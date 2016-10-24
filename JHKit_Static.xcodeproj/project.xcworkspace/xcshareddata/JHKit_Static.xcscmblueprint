@@ -1,0 +1,86 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0FBEA24D6326CD098DAD2F7046EF283D94103871",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DF461CAADB13706454B17F2BB50F488BBAD743E5" : 9223372036854775807,
+    "4182765C525509B305166AB949D5935FD5C85212" : 9223372036854775807,
+    "2454A7C0A4BC2A09472718EB55354F320600B245" : 9223372036854775807,
+    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : 9223372036854775807,
+    "0FBEA24D6326CD098DAD2F7046EF283D94103871" : 9223372036854775807,
+    "272F684BDB48C12FB82F63EFB90FF2436BBA2473" : 9223372036854775807,
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : 9223372036854775807,
+    "7070BA961BCA286ED2393408B1E3D78393C99B33" : 9223372036854775807,
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : 9223372036854775807,
+    "04101981B66E318109934C9516F88D824BB96459" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FBBBA7F6-AFF3-4494-9A8C-086776773FAB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DF461CAADB13706454B17F2BB50F488BBAD743E5" : "JHKit\/Libraries\/IQKeyboardManager\/",
+    "4182765C525509B305166AB949D5935FD5C85212" : "JHKit\/Libraries\/MBProgressHUD\/",
+    "2454A7C0A4BC2A09472718EB55354F320600B245" : "JHKit\/Libraries\/JSONModel\/",
+    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : "JHKit\/Libraries\/SDWebImage\/Vendors\/FLAnimatedImage\/",
+    "0FBEA24D6326CD098DAD2F7046EF283D94103871" : "JHKit\/",
+    "272F684BDB48C12FB82F63EFB90FF2436BBA2473" : "JHKit\/Libraries\/SDWebImage\/Vendors\/libwebp\/",
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : "JHKit\/Libraries\/SDWebImage\/",
+    "7070BA961BCA286ED2393408B1E3D78393C99B33" : "JHKit\/Libraries\/Reachability\/",
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : "JHKit\/Libraries\/AFNetworking\/",
+    "04101981B66E318109934C9516F88D824BB96459" : "JHKit\/Libraries\/FMDB\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JHKit_Static",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JHKit_Static.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ccgus\/fmdb.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "04101981B66E318109934C9516F88D824BB96459"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mumabinggan\/JHKit_Static.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0FBEA24D6326CD098DAD2F7046EF283D94103871"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jsonmodel\/jsonmodel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2454A7C0A4BC2A09472718EB55354F320600B245"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/webmproject\/libwebp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "272F684BDB48C12FB82F63EFB90FF2436BBA2473"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jdg\/MBProgressHUD.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4182765C525509B305166AB949D5935FD5C85212"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tonymillion\/Reachability.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7070BA961BCA286ED2393408B1E3D78393C99B33"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Flipboard\/FLAnimatedImage",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AFNetworking\/AFNetworking.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hackiftekhar\/IQKeyboardManager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF461CAADB13706454B17F2BB50F488BBAD743E5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rs\/SDWebImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E28E36D423EC87798E52E2BF482E9F7A1E6479D6"
+    }
+  ]
+}
