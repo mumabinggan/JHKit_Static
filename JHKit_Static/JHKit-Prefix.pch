@@ -1,0 +1,18 @@
+//
+//  JHKit-Prefix.pch
+//  JHKit
+//
+//  Created by muma on 16/10/7.
+//  Copyright © 2016年 mumuxinxinCompany. All rights reserved.
+//
+
+#ifndef JHKit_Prefix_pch
+#define JHKit_Prefix_pch
+
+//#define APP_DEBUG
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "JHKit.h"
+
+#endif /* JHKit_Prefix_pch */
