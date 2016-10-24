@@ -5,6 +5,7 @@
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "DF461CAADB13706454B17F2BB50F488BBAD743E5" : 9223372036854775807,
+    "D681A0672F4A00CCE3B5605A5DB5A4BAB702389B" : 9223372036854775807,
     "4182765C525509B305166AB949D5935FD5C85212" : 9223372036854775807,
     "2454A7C0A4BC2A09472718EB55354F320600B245" : 9223372036854775807,
     "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : 9223372036854775807,
@@ -17,16 +18,17 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FBBBA7F6-AFF3-4494-9A8C-086776773FAB",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "DF461CAADB13706454B17F2BB50F488BBAD743E5" : "JHKit\/Libraries\/IQKeyboardManager\/",
-    "4182765C525509B305166AB949D5935FD5C85212" : "JHKit\/Libraries\/MBProgressHUD\/",
-    "2454A7C0A4BC2A09472718EB55354F320600B245" : "JHKit\/Libraries\/JSONModel\/",
-    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : "JHKit\/Libraries\/SDWebImage\/Vendors\/FLAnimatedImage\/",
-    "0FBEA24D6326CD098DAD2F7046EF283D94103871" : "JHKit\/",
-    "272F684BDB48C12FB82F63EFB90FF2436BBA2473" : "JHKit\/Libraries\/SDWebImage\/Vendors\/libwebp\/",
-    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : "JHKit\/Libraries\/SDWebImage\/",
-    "7070BA961BCA286ED2393408B1E3D78393C99B33" : "JHKit\/Libraries\/Reachability\/",
-    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : "JHKit\/Libraries\/AFNetworking\/",
-    "04101981B66E318109934C9516F88D824BB96459" : "JHKit\/Libraries\/FMDB\/"
+    "DF461CAADB13706454B17F2BB50F488BBAD743E5" : "JHKit_Static\/Libraries\/IQKeyboardManager\/",
+    "D681A0672F4A00CCE3B5605A5DB5A4BAB702389B" : "..",
+    "4182765C525509B305166AB949D5935FD5C85212" : "JHKit_Static\/Libraries\/MBProgressHUD\/",
+    "2454A7C0A4BC2A09472718EB55354F320600B245" : "JHKit_Static\/Libraries\/JSONModel\/",
+    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : "JHKit_Static\/Libraries\/SDWebImage\/Vendors\/FLAnimatedImage\/",
+    "0FBEA24D6326CD098DAD2F7046EF283D94103871" : "JHKit_Static\/",
+    "272F684BDB48C12FB82F63EFB90FF2436BBA2473" : "JHKit_Static\/Libraries\/SDWebImage\/Vendors\/libwebp\/",
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : "JHKit_Static\/Libraries\/SDWebImage\/",
+    "7070BA961BCA286ED2393408B1E3D78393C99B33" : "JHKit_Static\/Libraries\/Reachability\/",
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : "JHKit_Static\/Libraries\/AFNetworking\/",
+    "04101981B66E318109934C9516F88D824BB96459" : "JHKit_Static\/Libraries\/FMDB\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "JHKit_Static",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -66,6 +68,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Flipboard\/FLAnimatedImage",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mumabinggan\/WeygoIPhone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D681A0672F4A00CCE3B5605A5DB5A4BAB702389B"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AFNetworking\/AFNetworking.git",
